@@ -4,6 +4,7 @@ This repository contains my work for **CodePath's Technical Interview Prep 102 (
 
 ## Structure
 Each unit is organized into:
+- **prep_unit*.py** – Pre-sessions material.
 - **notes.md** – Key concepts and takeaways.
 - **exercises.py** – Practice problems.
 

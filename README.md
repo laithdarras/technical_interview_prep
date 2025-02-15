@@ -1,1 +1,1 @@
-# tip102
+# This repository is for the TIP 102 course at CodePath

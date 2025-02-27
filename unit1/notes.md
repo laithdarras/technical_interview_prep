@@ -1,4 +1,4 @@
-# **Unit 1: Strings and Arrays – Notes**
+# **Unit 1: Notes**
 
 ## **The UMPIRE Strategy**
 The **UMPIRE** method is a methodology to problem-solving that enhances clarity and efficiency during technical interviews. It stands for:  

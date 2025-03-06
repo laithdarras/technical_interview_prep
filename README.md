@@ -1,15 +1,3 @@
-# CodePath TIP102 – Intermediate Technical Interview Prep
+# Technical Interview Prep
 
-This repository contains my work for **CodePath's Technical Interview Prep 102 (TIP102)** course. It includes notes and exercises for each unit to enhance my algorithmic problem-solving skills.
-
-## Structure
-Each unit is organized into:
-- **prep_unit`*`.py** – Pre-session material for the current unit.
-- **notes.md** – Key concepts and takeaways.
-- **exercises.py** – Practice problems.
-
-## Course Overview
-TIP102 is a 10-week course designed to improve technical interview skills by focusing on:
-- Algorithmic problem-solving techniques
-- Data structures and optimization strategies
-- Hands-on practice with Python
+Welcome! This repository is dedicated to my journey in preparing for **technical interviews** through structured practice, notes, and problem-solving. It serves as a long-term study resource as I develop my skills in **data structures**, **algorithms**, and **problem-solving techniques**.
